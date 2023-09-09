@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Christian... and I'm a Mechatronic Engineer, but also a Backend Developer!!</h2>
+<h2 align="center">Hi 👋! My name is Christian... and I'm a Mechatronic Engineer, but also a Backend Developer!!</h2>
 
 ###
 
@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
 
 ###
@@ -59,7 +61,7 @@
 
 ###
 
-<p <br>- 🔭 I’m working as backen developer <br>- 📚 I'm currently learning GraphQL with Strawberry<br>- ⚡ In my free time I play videogames</p>
+<p <br>- 🔭 I’m working as backend developer <br>- 📚 I'm currently learning GraphQL with Strawberry<br>- ⚡ In my free time I play videogames</p>
 
 ###
 
