@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Christian... and I'm a Mechatronic Engineer, but also a Backend Developer!!</h2>
+<h2 align="center">Hi 👋! My name is Christian and I'm a Mechatronic Engineer, but also a Backend Developer!!</h2>
 
 ###
 
