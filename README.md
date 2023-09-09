@@ -59,7 +59,7 @@
 
 ###
 
-<p - 🔭 I’m working as backen developer <br>- 📚 I'm currently learning GraphQL with Strawberry<br>- ⚡ In my free time I play videogames</p>
+<p <br>- 🔭 I’m working as backen developer <br>- 📚 I'm currently learning GraphQL with Strawberry<br>- ⚡ In my free time I play videogames</p>
 
 ###
 
